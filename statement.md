@@ -48,11 +48,11 @@ b. Answer the following questions:
 
 
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Consider the previous code. Is there libraries?]
+-[ ] main
+-[ ] No
+-[x] Yes
+-[ ] #include<stdio.h>
 
 
 # Advanced usage
