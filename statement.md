@@ -53,12 +53,5 @@ b. Answer the following questions:
 -[ ] #include<stdio.h>
 
 
-
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
-
-
 # Bibliography and more material
 1. [Javier's repository:](https://github.com/jaorduz/) https://github.com/jaorduz/
