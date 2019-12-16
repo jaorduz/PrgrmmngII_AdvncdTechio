@@ -1,4 +1,5 @@
 # ¡Bienvenidos al curso de Programación II (2020-II-FESAc-UNAM)!
+## J.A. Orduz-Ducuara
 
 Este curso está diseñado para los estudiantes de programación con conocimientos básicos en C.
 Algunos requisitos para tomar este curso:
@@ -31,3 +32,7 @@ int main() {
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
+
+
+# Bibliography and more material
+1. [Javier's repository:](https://github.com/jaorduz/) https://github.com/jaorduz/
