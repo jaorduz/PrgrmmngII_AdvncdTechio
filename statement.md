@@ -20,6 +20,11 @@ related to the previous course.
 Purpose: remember some concepts.
 
 
+# Basic concepts
+
+
+1. Consider the next code
+
 ```C runnable
 #include <stdio.h>
 
@@ -28,6 +33,18 @@ int main() {
 }
 
 ```
+a. Modifie the previous code to print two messages and two variables: int and float. 
+
+
+b. Answer the following questions:
+
+?[Consider the previous code. Is there libraries?] 
+-[ ] main()
+-[ ] No
+-[x] yes
+-[ ] #include<stdio.h>
+
+
 
 # Advanced usage
 
