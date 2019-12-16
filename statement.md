@@ -30,6 +30,7 @@ Purpose: remember some concepts.
 
 int main() {
 	printf("Hello World!");
+	return 0;
 }
 
 ```
@@ -38,21 +39,20 @@ a. Modifie the previous code to print two messages and two variables: int and fl
 
 b. Answer the following questions:
 
-?[Consider the previous code. Is there libraries?] 
--[ ] main()
--[ ] No
--[x] yes
--[ ] #include<stdio.h>
-
-
-
-
-
 ?[Consider the previous code. Is there libraries?]
 -[ ] main
 -[ ] No
 -[x] Yes
 -[ ] #include<stdio.h>
+
+
+?[Consider the previous code. Does the main contain two lines?]
+-[ ] main
+-[x] Yes
+-[ ] No
+-[ ] #include<stdio.h>
+
+
 
 
 # Advanced usage
