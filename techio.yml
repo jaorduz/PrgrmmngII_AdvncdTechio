@@ -1,4 +1,10 @@
-title: Programación II
+title: Actividad de Bienvenida: Programación II
 plan:
-- title: C Snippet
-  statement: statement.md
+- title: Bienvenida
+  statement: markdowns/welcome.md
+- title: Data type
+  statement: markdowns/parte1.md
+- title: Arrays
+  statement: markdowns/parte2.md
+- title: Statments
+  statement: markdowns/parte3.md
