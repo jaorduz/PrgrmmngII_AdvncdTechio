@@ -46,15 +46,15 @@ b. Answer the following questions:
 
 ?[Consider the previous code. Is there libraries?]
 -[ ] main
--[ ] No
 -[x] Yes
+-[ ] No
 -[ ] #include<stdio.h>
 
 
 ?[Consider the previous code. Does the main contain two lines?]
 -[ ] main
--[x] Yes
 -[ ] No
+-[x] Yes
 -[ ] #include<stdio.h>
 
 
