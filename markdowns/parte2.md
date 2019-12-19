@@ -7,9 +7,7 @@
 -[ ] ints
 -[x] elements
 
-which are the same
-
-?[An array is a collection of...]
+?[which are the same...]
 -[x] type
 -[ ] char
 -[ ] ints
