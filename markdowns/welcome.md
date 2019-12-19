@@ -8,7 +8,12 @@ Algunos requisitos para tomar este curso:
 3. Tener habilidades de trabajo en equipo.
 4. Tener interés por aprender y enseñar; es decir, compartir el conocimiento.
 5. Tener respeto por las opiniones de otras personas  y 
-6. Tener sentido crítico.
+6. Tener/desarrollar sentido crítico.
+
+---
+Lea nuevamente las recomendaciones anteriores.
+---
+
 
 
 # Review
