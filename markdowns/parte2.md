@@ -1,6 +1,5 @@
 # Arreglos
 
-
 ?[An array is a collection of...]
 -[ ] mains
 -[ ] floats
@@ -32,7 +31,7 @@ suma = myArray[i];
 
 ```
 
-
+Check the previous code in order to find the 0, not the last value in the array.
 
 
 
