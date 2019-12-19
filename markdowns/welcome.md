@@ -54,4 +54,4 @@ b. Answer the following questions:
 
 
 # Bibliography and more material
-1. [Javier's repository:](https://github.com/jaorduz/) https://github.com/jaorduz/
+1. Javier's repository https://github.com/jaorduz/
