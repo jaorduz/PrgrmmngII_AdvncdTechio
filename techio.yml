@@ -1,4 +1,8 @@
-title: Actividad de Bienvenida del curso de Programación II
+title: Actividad de Bienvenida: Programación II
+projects: See Projects section
+
+cover: /figs/GCCYC.png
+
 plan:
 - title: Bienvenida
   statement: markdowns/welcome.md
