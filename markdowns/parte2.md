@@ -4,6 +4,17 @@
 
 1. [Arrays](#arrays)
 
+?[An array is a collection of...]
+-[ ] mains
+-[ ] floats
+-[ ] ints
+-[x] elements
+
+?[which are the same...]
+-[x] type
+-[ ] char
+-[ ] ints
+-[ ] size
 
 # Arrays <a name="arrays"></a>
 
