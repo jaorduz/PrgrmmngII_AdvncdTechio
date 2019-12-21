@@ -7,17 +7,7 @@
 
 # Arrays <a name="arrays"></a>
 
-?[An array is a collection of...]
--[ ] mains
--[ ] floats
--[ ] ints
--[x] elements
 
-?[which are the same...]
--[x] type
--[ ] char
--[ ] ints
--[ ] size
 
 those elements can be related by different operators 
 through the index.
