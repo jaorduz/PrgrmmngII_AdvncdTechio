@@ -1,4 +1,11 @@
-# Statements: for, if, if-else-if, do-while, while
+![LogoGCCyC](/figs/logosNB.png)
+
+# Contents <a name="inicio"></a>
+
+1. [Statements: for, if, if-else-if, do-while, while](#statements)
+
+
+# Statements: for, if, if-else-if, do-while, while <a name="statements"></a>
 
 Different statements are outstanding for programming. 
 We shall check some examples with the previous 
@@ -26,8 +33,7 @@ for(int i =0;i<=2;i++){
 
 
 
-
-#
+Go <a href="#inicio">Up</a>
 
 
 
