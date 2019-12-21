@@ -2,7 +2,7 @@
 <img src="../figs/GCCYC.png" style="float: right; margin-right: 100px; width:100px" alt="Example" width="350" height="350"/>
 <img src="../figs/logo-unam.png" style="float: left; margin-left: 100px; width:100px" alt="Example" width="350" height="350"/> 
 
-# Contents
+# Contents <a name="inicio"></a>
 
 1. [Data_type](#Data_type)
 
@@ -21,7 +21,7 @@ Consider the type: _int_, _float_ and...
 
 
 <div style="text-align: right"> 
-<a href="#PA1_lecturaArchivos">Up</a>
+Go <a href="#inicio">Up</a>
 </div>
 
 
