@@ -61,7 +61,11 @@ b. Answer the following questions:
 -[ ] No
 -[ ] #include<stdio.h>
 
-
+?[Consider the previous code. Does the main contain two lines?]
+-[ ] main
+-[ ] No
+-[x] Yes
+-[ ] #include<stdio.h>
 
 
 
