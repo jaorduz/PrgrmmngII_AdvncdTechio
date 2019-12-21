@@ -19,9 +19,9 @@ Consider the type: _int_, _float_ and...
 
 
 
-<div style="text-align: right"> 
+
 Go <a href="#inicio">Up</a>
-</div>
+
 
 
 
