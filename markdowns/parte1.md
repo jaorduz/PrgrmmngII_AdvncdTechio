@@ -1,4 +1,14 @@
-# Data type
+
+<img src="sources/GCCYC.png" style="float: right; margin-right: 100px; width:100px" alt="Example" width="350" height="350"/>
+<img src="sources/logo-unam.png" style="float: left; margin-left: 100px; width:100px" alt="Example" width="350" height="350"/> 
+
+# Contents
+
+1. Data_type(#Data_type)
+
+
+
+# Data type <a name="Data_type"></a>
 
 Consider the type: _int_, _float_ and...
 
@@ -7,6 +17,14 @@ Consider the type: _int_, _float_ and...
 -[x] double, char, bool
 -[ ] String, return, sizeof
 -[ ] stdio.h, printf, Bool
+
+
+
+<div style="text-align: right"> 
+Regresar al <a href="#PA1_lecturaArchivos">Inicio</a>
+</div>
+
+
 
 
 <!---
