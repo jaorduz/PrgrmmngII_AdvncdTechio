@@ -62,11 +62,7 @@ b. Answer the following questions:
 -[ ] #include<stdio.h>
 
 
-?[Consider the previous code. Does the main contain two lines?]
--[ ] main
--[ ] No
--[x] Yes
--[ ] #include<stdio.h>
+
 
 
 # Bibliography and more material<a name="bibliographyMaterial"></a>
