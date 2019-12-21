@@ -21,7 +21,7 @@ Consider the type: _int_, _float_ and...
 
 
 <div style="text-align: right"> 
-Regresar al <a href="#PA1_lecturaArchivos">Inicio</a>
+<a href="#PA1_lecturaArchivos">Up</a>
 </div>
 
 
