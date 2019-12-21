@@ -3,7 +3,7 @@
 <img src="/figs/logo-unam.png" style="float: left; margin-left: 100px; width:100px" alt="Example" width="350" height="350"/> 
 
 
-![LogoGCCyC](/fig/GCCYC.png)
+![LogoGCCyC](/figs/GCCYC.png)
 
 
 # Contents <a name="inicio"></a>
