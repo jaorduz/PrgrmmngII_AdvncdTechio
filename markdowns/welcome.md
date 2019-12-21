@@ -1,4 +1,15 @@
-# ¡Bienvenidos al curso de Programación II (2020-II-FESAc-UNAM)!
+![LogoGCCyC](/figs/logosNB.png)
+<!---Go <a href="#inicio">Up</a> --->
+
+# Contents <a name="inicio"></a>
+1. [Bienvenidos](#welcome)
+2. [Review](#review)
+3. [Basic concepts](#basicConcepts)
+4. [Bibliography and more material](#bibliographyMaterial)
+
+
+
+# ¡Bienvenidos al curso de Programación II (2020-II-FESAc-UNAM)!<a name="welcome"></a>
 ## J.A. Orduz-Ducuara
 
 Este curso está diseñado para los estudiantes de programación con conocimientos básicos en C.
@@ -16,7 +27,7 @@ Lea nuevamente las recomendaciones anteriores.
 
 
 
-# Review
+# Review<a name="review"></a>
 
 
 The following lines contain information about concepts, statements and other; which are 
@@ -25,7 +36,7 @@ related to the previous course.
 Purpose: remember some concepts.
 
 
-# Basic concepts
+# Basic concepts<a name="basicConcepts"></a>
 
 
 1. Consider the next code
@@ -58,5 +69,8 @@ b. Answer the following questions:
 -[ ] #include<stdio.h>
 
 
-# Bibliography and more material
+# Bibliography and more material<a name="bibliographyMaterial"></a>
 1. Javier's repository https://github.com/jaorduz/
+
+
+Go <a href="#inicio">Up</a>
