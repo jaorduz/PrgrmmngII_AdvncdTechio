@@ -4,7 +4,7 @@
 
 # Contents
 
-1. Data_type(#Data_type)
+1. [Data_type](#Data_type)
 
 
 
