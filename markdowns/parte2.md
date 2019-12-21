@@ -1,4 +1,11 @@
-# Arreglos
+![LogoGCCyC](/figs/logosNB.png)
+
+# Contents <a name="inicio"></a>
+
+1. [Arrays](#arrays)
+
+
+# Arrays <a name="arrays"></a>
 
 ?[An array is a collection of...]
 -[ ] mains
@@ -34,6 +41,10 @@ suma = myArray[i];
 Check the previous code in order to find the 0, not the last value in the array.
 
 
+
+
+
+Go <a href="#inicio">Up</a>
 
 <!---
 Las variables de clase en C++ son datos de distinto tipo que sirven para describir el estado actual de un objeto de esa clase.
