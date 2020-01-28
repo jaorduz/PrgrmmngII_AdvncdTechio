@@ -61,11 +61,16 @@ b. Answer the following questions:
 -[ ] No
 -[ ] #include<stdio.h>
 
-?[Consider the previous code. Does the main contain two lines?]
+?[Consider the previous code. Does the main function contain two lines?]
 -[ ] main
 -[ ] No
 -[x] Yes
 -[ ] #include<stdio.h>
+
+
+
+Go the next section to explore more about data type.
+
 
 
 

@@ -18,6 +18,106 @@ Consider the type: _int_, _float_ and...
 -[ ] stdio.h, printf, Bool
 
 
+1. Fix the next code to get the size of a. 
+
+```C runnable
+
+#include<stdio.h>
+int main(){
+
+  int a = 2;
+   b =sizeof(a); 
+  printf("salida %i. El tamanio es: %i Bytes\n" a, b)
+  
+  return 0;
+}
+
+```
+2. Repair the follow code to get the values and size of _A_ and _a_.
+
+```C runnable
+#include <stdio.h>
+
+int main(){
+
+int A, a;
+
+A = 2
+a = 3; 
+
+printf("A=\n", A);
+printf("a=%i\n", a);
+
+   return 0;
+}
+```
+
+
+
+3. Organize the code in the correct form:
+
+```C runnable
+#include <stdio.h>
+    return 0;
+{
+
+    bool isEven = true;
+int main()
+
+if(p==2)
+else{
+    printf("p=%i es Impar %i\n",p ,isEven);
+{
+    printf("p=%i es Par %i\n",p ,isEven);
+	}
+	}
+    int p=3;
+#include <stdbool.h>
+
+puts("1 = true and 0 = false\n\n");
+}
+```
+
+
+4. Arrange  the code in the correct form:
+
+```C runnable
+// Biblioteca
+
+
+
+
+// Declaracion de la funcion
+
+void func(void);
+
+// Definicion de la funcion funcion principal
+int main(){
+   while(count--) {
+   }
+
+   return 0;
+
+
+     func(); // llamar la funcion
+static int count = 5; // variable global 
+
+}
+
+// Definicion de la funcion
+
+   printf("i es %d y la cuenta es %d\n", i, count);
+   register int i = 5; //variable local register(static)
+
+
+void func( void ) {
+
+   i++;
+
+}
+#include <stdio.h>
+
+```
 
 
 Go <a href="#inicio">Up</a>
