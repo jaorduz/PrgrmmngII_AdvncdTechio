@@ -1,14 +1,9 @@
 ![LogoGCCyC](/figs/logosNB.png)
 
 
-
-# Contents <a name="inicio"></a>
-1. [Bienvenidos](#welcome)
-
-
 # Contents <a name="inicio"></a>
 
-1. [Exercises](#exer1)
+1. [Data type](#exer1)
 
 2. [Code/Scripts](#exer2)
 
@@ -18,10 +13,7 @@ This sections contains some questions about
 fundamental concepts about programming.
 
 
-
-
-
-# Data type <a name="Data_type"></a>
+# Data type <a name="exer1"></a>
 
 a. Consider the type: _int_, _float_ and...
 ?[What are the other types?]
@@ -53,7 +45,7 @@ c. Examples of escape secuences
 -[x] \r, \n, \t
 
 
-# Code/Scripts
+# Code/Scripts <a name="exer2"><\a>
 
 
 1. Fix the next code to get the size of a. 
