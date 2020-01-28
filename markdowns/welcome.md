@@ -68,14 +68,10 @@ b. Answer the following questions:
 -[ ] #include<stdio.h>
 
 
-
 Go the next section to explore more about data type.
-
-
 
 
 # Bibliography and more material<a name="bibliographyMaterial"></a>
 1. Javier's repository https://github.com/jaorduz/
-
 
 Go <a href="#inicio">Up</a>

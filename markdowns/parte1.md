@@ -1,21 +1,60 @@
 ![LogoGCCyC](/figs/logosNB.png)
 
 
+
+# Contents <a name="inicio"></a>
+1. [Bienvenidos](#welcome)
+
+
 # Contents <a name="inicio"></a>
 
-1. [Data type](#Data_type)
+1. [Exercises](#exer1)
+
+2. [Code/Scripts](#exer2)
+
+
+
+This sections contains some questions about 
+fundamental concepts about programming.
+
+
 
 
 
 # Data type <a name="Data_type"></a>
 
-Consider the type: _int_, _float_ and...
+a. Consider the type: _int_, _float_ and...
 
-?[What are the other types?]
--[ ] main, string, char
--[x] double, char, bool
--[ ] String, return, sizeof
--[ ] stdio.h, printf, Bool
+	?[What are the other types?]
+	-[ ] main, string, char
+	-[x] double, char, bool
+	-[ ] String, return, sizeof
+	-[ ] stdio.h, printf, Bool
+
+b. Choose the correct answer.
+	?[A script/programm/code/source-file is ...]
+	-[x] a set of instructions what, after you run it, realizes different jobs in the computer.
+	-[ ] a set of instructions what, after you run it, realizes different traduction, variables in the computer.
+	-[ ] a set of instructions what, after you run it, realizes different traduction, variables in the USB.
+	-[ ] a set of instructions what, after you run it, realizes different variables in PC.
+
+c. Some keywords 
+	?[in C are...]
+	-[ ] emun, signed, INT
+	-[x] sizeof, static, do
+	-[ ] TypedeF, else, short
+	-[ ] while, const, BREAK
+
+
+c. Examples of escape secuences 
+	?[in C are...]
+	-[ ] \s, \y, \n
+	-[ ] \?, \a, \q
+	-[ ] \z, \t, \a
+	-[x] \r, \n, \t
+
+
+# Code/Scripts
 
 
 1. Fix the next code to get the size of a. 
@@ -118,6 +157,8 @@ void func( void ) {
 #include <stdio.h>
 
 ```
+
+
 
 
 Go <a href="#inicio">Up</a>
