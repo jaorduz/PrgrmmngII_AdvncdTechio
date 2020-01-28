@@ -23,7 +23,7 @@ a. Consider the type: _int_, _float_ and...
 -[ ] stdio.h, printf, Bool
 
 b. Choose the correct answer.
-?[A script/programm/code/source-file is ...]
+?[A script/program/code/source-file is ...]
 -[x] a set of instructions what, after you run it, realizes different jobs in the computer.
 -[ ] a set of instructions what, after you run it, realizes different traduction, variables in the computer.
 -[ ] a set of instructions what, after you run it, realizes different traduction, variables in the USB.
@@ -45,7 +45,7 @@ c. Examples of escape secuences
 -[x] \r, \n, \t
 
 
-# Code/Scripts <a name="exer2"><\a>
+# Code/Scripts <a name="exer2"></a>
 
 
 1. Fix the next code to get the size of a. 
