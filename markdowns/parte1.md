@@ -24,34 +24,33 @@ fundamental concepts about programming.
 # Data type <a name="Data_type"></a>
 
 a. Consider the type: _int_, _float_ and...
-
-	?[What are the other types?]
-	-[ ] main, string, char
-	-[x] double, char, bool
-	-[ ] String, return, sizeof
-	-[ ] stdio.h, printf, Bool
+?[What are the other types?]
+-[ ] main, string, char
+-[x] double, char, bool
+-[ ] String, return, sizeof
+-[ ] stdio.h, printf, Bool
 
 b. Choose the correct answer.
-	?[A script/programm/code/source-file is ...]
-	-[x] a set of instructions what, after you run it, realizes different jobs in the computer.
-	-[ ] a set of instructions what, after you run it, realizes different traduction, variables in the computer.
-	-[ ] a set of instructions what, after you run it, realizes different traduction, variables in the USB.
-	-[ ] a set of instructions what, after you run it, realizes different variables in PC.
+?[A script/programm/code/source-file is ...]
+-[x] a set of instructions what, after you run it, realizes different jobs in the computer.
+-[ ] a set of instructions what, after you run it, realizes different traduction, variables in the computer.
+-[ ] a set of instructions what, after you run it, realizes different traduction, variables in the USB.
+-[ ] a set of instructions what, after you run it, realizes different variables in PC.
 
 c. Some keywords 
-	?[in C are...]
-	-[ ] emun, signed, INT
-	-[x] sizeof, static, do
-	-[ ] TypedeF, else, short
-	-[ ] while, const, BREAK
+?[in C are...]
+-[ ] emun, signed, INT
+-[x] sizeof, static, do
+-[ ] TypedeF, else, short
+-[ ] while, const, BREAK
 
 
 c. Examples of escape secuences 
-	?[in C are...]
-	-[ ] \s, \y, \n
-	-[ ] \?, \a, \q
-	-[ ] \z, \t, \a
-	-[x] \r, \n, \t
+?[in C are...]
+-[ ] \s, \y, \n
+-[ ] \?, \a, \q
+-[ ] \z, \t, \a
+-[x] \r, \n, \t
 
 
 # Code/Scripts
